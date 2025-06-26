@@ -3,9 +3,6 @@
 Este proyecto está organizado para ayudarte a aprender **Go (Golang)** desde lo más básico hasta temas más avanzados. Aquí encontrarás ejemplos prácticos y explicaciones de cada concepto clave del lenguaje.
 
 ---
-
-## 📂 Estructura del Proyecto
-
 ## 📂 Estructura del Proyecto
 
 ```text
