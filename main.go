@@ -2,7 +2,6 @@ package main
 
 import (
 	"proyecto-go/examples"
-	code "proyecto-go/leet_code"
 	"proyecto-go/theory"
 )
 
@@ -18,9 +17,6 @@ func main() {
 	// theory.ArraySlices()
 	// theory.Dictionaries()
 	theory.Structures()
-
-	// LEET_CODE //
-	code.LeetCode()
 
 	// EXAMPLES //
 	examples.ExamplesCode()
